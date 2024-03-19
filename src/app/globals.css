@@ -8,15 +8,6 @@
   }
 }
 
-.auth{
-  background-image: url('../../public/blob.png');
-  background-size:contain;
-  background-repeat:no-repeat;
-  width: 200px;
-  height: 100vh;
-
-    
-}
 
 .scrollbar-w-2::-webkit-scrollbar {
   width: 0.25rem;
