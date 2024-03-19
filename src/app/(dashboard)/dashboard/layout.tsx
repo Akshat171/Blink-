@@ -41,7 +41,7 @@ const Layout: FC<LayoutProps> = async ({ children }: LayoutProps) => {
     )) as User[]
   ).length;
   return (
-    <div className="w-full flex h-screen">
+    <div className="w-full flex h-screen bg-gradient-to-r from-rose-100 to-teal-100">
       <div className="md:hidden">
         <MobileChatLayout
           friends={friends}
