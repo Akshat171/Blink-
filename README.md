@@ -31,10 +31,6 @@ Here is a working live demo : https://lets-blink.vercel.app/login
 
 
 
-### User profile
-![image](https://github.com/Akshat171/Blink/assets/81281246/69cd7b8a-ab85-46c8-b737-f012969b479c)
-
-
 ## chat page
 ![](https://github.com/Akshat171/letsBlink/assets/81281246/2ff5d457-b39a-4e80-859c-6b6a921527a8)
 
